@@ -55,3 +55,8 @@
    ![](使用说明附图/上传中.png)
 
    ![](使用说明附图/上传完毕.png)
+   
+   ## 赞助
+如果您觉得软件还不错，并且愿意请作者喝杯咖啡的话，欢迎打赏<br/>
+<img src="https://github.com/zhangqi-ulua/FiddlerHeadConvertor/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/wechat.jpg" width="40%">
+<img src="https://github.com/zhangqi-ulua/FiddlerHeadConvertor/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/alipay.jpg" width="40%">
