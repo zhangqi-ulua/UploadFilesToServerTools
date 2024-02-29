@@ -148,7 +148,7 @@ namespace UploadFilesToServerTools
         {
             for (int i = 0; i < _ViewConfigUserControlList.Count; i++)
             {
-                _ViewConfigUserControlList[i].Location = new Point(0, i * _CONFIG_CONTROL_DISTANCE_Y);
+                _ViewConfigUserControlList[i].Location = new Point(0, i * _CONFIG_CONTROL_DISTANCE_Y - Pnl.VerticalScroll.Value);
             }
         }
 

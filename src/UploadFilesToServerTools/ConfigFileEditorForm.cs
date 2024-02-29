@@ -129,7 +129,7 @@ namespace UploadFilesToServerTools
         {
             for (int i = 0; i < _EditConfigUserControlList.Count; i++)
             {
-                _EditConfigUserControlList[i].Location = new Point(0, i * _CONFIG_CONTROL_DISTANCE_Y);
+                _EditConfigUserControlList[i].Location = new Point(0, i * _CONFIG_CONTROL_DISTANCE_Y - Pnl.VerticalScroll.Value);
                 _EditConfigUserControlList[i].SetGroupBoxTitle((i + 1).ToString());
             }
         }
